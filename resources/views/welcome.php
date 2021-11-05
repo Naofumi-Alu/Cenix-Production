@@ -299,7 +299,8 @@
                 <img src="images/ProyectosSoluciones/Proyecyos y Soluciones.jpg" />
 				<div class="team-detail">
 					<div class="h4 texto">Proyectos y soluciones</div>
-					<div class="textoContentPortafolio">Soluciones integrales las áreas de telecomunicaciones, movilidad, software, energía, cableado estructurado, sistemas de seguridad y automatización</div>
+					<div class="textoContentPortafolio">Soluciones integrales las áreas de telecomunicaciones movilidad, software, energía, cableado estructurado, sistemas de seguridad y automatización</div>
+					
 				</div>     
             </div>
 
@@ -330,7 +331,7 @@
                
 				<div class="team-detail">
 					<div class="h4 texto">Comercialización</div>
-					<div class="textoContentPortafolio">Suministro de equipos, materiales, elementos y accesorias para redes de comunicaciones, data center, sistemas eléctricos, sistemas de seguridad, entre otros. </div>
+					<div class="textoContentPortafolio">Suministro de equipos, materiales, elementos y accesorias para redes de comunicaciones data center, sistemas eléctricos, sistemas de seguridad, entre otros.</div>
 				</div> 
 				
             </div>
