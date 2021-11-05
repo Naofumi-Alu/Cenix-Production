@@ -355,10 +355,10 @@
 					<div class="textoContentPortafolio">Evaluación de proyectos, gestión de comprar, gestión financiera y auditoria. </div>
 				</div> 
             </div>
-
+			<!-- FLECHAS PORTAFOLIO
             <a href="#" class="anterior" onclick="anterior();">&#10094;</a>
             <a href="#" class="siguiente" onclick="siguiente();">&#10095;</a>
-
+			-->
             <div class="puntos">
                 <span class="punto activo" onclick="mostrar(0);"></span>
                 <span class="punto" onclick="mostrar(1);"></span>
