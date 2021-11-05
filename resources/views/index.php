@@ -68,7 +68,7 @@
                         <div class="item-image">
                           <img class="imagenCarrusel" src="images/Soluciones/tics370x250.jpg"  alt="..." >
 
-                          <!--Button Prev, Next-->
+                          <!--Button Prev, Next
                           <div class="flechasCarrusel">
                             <a href="#itemCarrusel-7">
                               <i class="carousel-control-prev-icon"></i>
@@ -77,7 +77,7 @@
                               <i class="carousel-control-next-icon"></i>
                             </a>
                           </div>
-
+							-->
                         </div>
 							
 						<!-- Title Card-->
@@ -96,7 +96,7 @@
                         <div class="item-image">
                           <img class="imagenCarrusel" src="images/Soluciones/Edificiosinteligentes370x250.jpeg" alt="" width="430rem" height ="235rem">
 
-                          <!--Button Prev, Next-->
+                          <!--Button Prev, Next
                           <div class="flechasCarrusel">
                             <a href="#itemCarrusel-1">
                               <i class="carousel-control-prev-icon"></i>
@@ -105,8 +105,9 @@
                               <i class="carousel-control-next-icon"></i>
                             </a>
                           </div>
+						  	 -->
                         </div>
-						 
+					
 						<!-- Title Card-->	
 						<h5 class="card-title">Edificios inteligentes</h5>
 
@@ -124,7 +125,7 @@
                         <div class="item-image">
                           <img class="imagenCarrusel" src="images/Soluciones/Movilidad370x250.jpg" alt="" width="430rem" height ="235rem">
 
-                          <!--Button Prev, Next-->
+                          <!--Button Prev, Next
                           <div class="flechasCarrusel">
                             <a href="#itemCarrusel-2">
                               <i class="carousel-control-prev-icon"></i>
@@ -133,6 +134,7 @@
                               <i class="carousel-control-next-icon"></i>
                             </a>
                           </div>
+						  -->
 
                         </div>
 						<!-- Title Card-->	
@@ -152,7 +154,7 @@
                         <div class="item-image">
                           <img class="imagenCarrusel" src="images/Soluciones/Seguridadvial370x250.jpg" alt="" width="430rem" height ="235rem">
 
-                          <!--Button Prev, Next-->
+                          <!--Button Prev, Next
                           <div class="flechasCarrusel">
                             <a href="#itemCarrusel-3">
                               <i class="carousel-control-prev-icon"></i>
@@ -161,6 +163,7 @@
                               <i class="carousel-control-next-icon"></i>
                             </a>
                           </div>
+						  	 -->
 
                         </div>
 						<!-- Title Card-->
@@ -179,7 +182,7 @@
                         <div class="item-image">
                           <img class="imagenCarrusel" src="images/Soluciones/software370x250.jpg" alt="" width="430rem" height ="235rem">
 
-                          <!--Button Prev, Next-->
+                          <!--Button Prev, Next
                           <div class="flechasCarrusel">
                             <a href="#itemCarrusel-4">
                               <i class="carousel-control-prev-icon"></i>
@@ -188,7 +191,7 @@
                               <i class="carousel-control-next-icon"></i>
                             </a>
                           </div>
-
+								 -->
                         </div>
 
 						<!--Title Card-->
@@ -207,7 +210,7 @@
                         <div class="item-image">
                           <img class="imagenCarrusel" src="images/Soluciones/IoT370x250.jpg" alt="" width="430rem" height ="235rem">
 
-                          <!--Button Prev, Next-->
+                          <!--Button Prev, Next
                           <div class="flechasCarrusel">
                             <a href="#itemCarrusel-5">
                               <i class="carousel-control-prev-icon"></i>
@@ -216,7 +219,7 @@
                               <i class="carousel-control-next-icon"></i>
                             </a>
                           </div>
-
+							 -->
                         </div>
 
 						<!--Card Title-->
@@ -235,7 +238,7 @@
                         <div class="item-image">
                           <img class="imagenCarrusel" src="images/Soluciones/Energia370x250.jpg" alt="" width="430rem" height ="235rem">
 
-                          <!--Button Prev, Next-->
+                          <!--Button Prev, Next
                           <div class="flechasCarrusel">
                             <a href="#itemCarrusel-6">
                               <i class="carousel-control-prev-icon"></i>
@@ -244,6 +247,7 @@
                               <i class="carousel-control-next-icon"></i>
                             </a>
                           </div>
+						  	 -->
                         </div>
 						
 						<!--Card Title-->
@@ -321,8 +325,8 @@
             </div>
 
             <div class="imagen mask">
-	
-                <img src="images/ProyectosSoluciones/ingenieria.png" />
+				<!--correcion url imagen4-->
+                <img src="images/ProyectosSoluciones/Ingenieria.png" />
                
 				<div class="team-detail">
 					<div class="h4 texto">Comercialización</div>
@@ -343,8 +347,8 @@
 				</div> 
             </div>
 			<div class="imagen mask">
-
-                <img src="images/ProyectosSoluciones/consultoria.JPG" />
+				<!--correcion url imagen6-->
+                <img src="images/ProyectosSoluciones/consultoria.jpg" />
                 
 				<div class="team-detail">
 					<div class="h4 texto">Consultorías</div>
